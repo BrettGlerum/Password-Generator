@@ -6,6 +6,8 @@ I have created a functional password generator to show off what I have learned s
 # Usage
 The website itself is pretty simple. It is simply a red button that says "Generate Password", and once clicked, a series of prompt and confirm boxes will show up. The first box will ask for the preferred length of the password. Next it will either move forward or tell you to put in a valid number. Moving forward, it will then ask if special characters are wanted in the password, then numbers, uppercase letters; and lastly, lowercase letters. It will then provide a password with the requested length, and at least one character of every criteria requested, on the page. 
 
+Link to the deployed site: https://brettglerum.github.io/Password-Generator/ 
+Screenshot:
 # License
 MIT License
 
