@@ -34,7 +34,7 @@ function generatePassword (){
   if(!create){
   alert ("Password will not be generated")
   }
-  else if(create < 7 || create > 129){
+  else if(create < 8 || create > 128){
     create=parseInt(prompt("Enter a number between 8 and 128"))
   }
   else{
